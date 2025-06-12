@@ -1,4 +1,0 @@
-l=[11,12,13,14,15]
-# add element using append 
-print(l.append(50))
-print(l)
